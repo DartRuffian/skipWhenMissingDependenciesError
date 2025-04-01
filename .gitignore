@@ -1,7 +1,6 @@
 # HEMTT
 hemtt.exe
 .hemtt/missions/~*
-.hemttout/
 releases/
 
 # Textures
@@ -13,5 +12,4 @@ Exports/
 # Other
 *.biprivatekey
 *.zip
-*.pbo
 *.sqfc
